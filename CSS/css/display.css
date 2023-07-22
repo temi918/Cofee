@@ -1,0 +1,16 @@
+/* Default display property
+Block: Always starts a new line and takes full width
+Inline: Does not start and only takes up as much as content space */
+body{
+  text-align: center;
+}
+.block{
+  background: blue;
+  color: white;
+  width: 150px;
+  margin: 20px auto;
+}
+.inline{
+  background: red;
+  color: white;
+}

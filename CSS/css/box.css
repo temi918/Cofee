@@ -1,0 +1,17 @@
+/* box model
+ */
+* {
+  margin: 0;
+}
+h1 {
+  background: red;
+  padding: 20px;
+
+}
+p {
+  background: blue;
+  padding: 20px;
+  margin: 100px 50px 10px 70px;
+  /* padding: 30px 60px; */
+  /* padding: 20px 40px 60px 10px; */
+}
